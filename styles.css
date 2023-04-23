@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeBg6cRGvIttjmUdJ9xSu1DOKXFLf0m3kl9Q&usqp=CAU");
+}
+h1, h2, h3 {
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+}
+
+.menu {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+li {
+    margin-bottom: 25px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p, ul, ol {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
